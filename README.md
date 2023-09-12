@@ -1,3 +1,3 @@
 # newMarket
-Projeto Realizado nas aulas de Computação de Dispositivos Móveis - Stack React Native c/ JavaScript
-A intenção do projeto, foi mostrar aos alunos, como seria realizado o desenvolvimento multiplataforma de um app similar ao iFood 
+Project carried out in Mobile Computing classes - Stack React Native w/ JavaScript
+The intention of the project was to show students how the multiplatform development of an app similar to iFood would be carried out.
